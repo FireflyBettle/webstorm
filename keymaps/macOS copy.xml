@@ -1,0 +1,79 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <mouse-shortcut keystroke="meta button143" />
+  </action>
+  <action id="EditMacros">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="Exit" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
+  <action id="Macro.console.log">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="Macro.注释">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+  </action>
+  <action id="NavBar-selectHome">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="PlaySavedMacrosAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt q" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
+  <action id="StartStopMacroRecording">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+</keymap>

@@ -1,0 +1,20 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="com.intellij.lang.javascript.template.postfix.JSLogPostfixTemplate#.log" key=".log" provider="builtin.js" builtin="com.intellij.lang.javascript.template.postfix.JSLogPostfixTemplate#.log" />
+    <template id="log@userDefined" key=".log" provider="builtin.js" language-level="ES6" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="console.log(&quot; %c 🐱‍🏍 $EXPR$: &quot;,'font-size:20px;background-color: #42b983;color:#fff;', $EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.js">
+        <value>
+          <set>
+            <option value="com.intellij.lang.javascript.template.postfix.JSLogPostfixTemplate#.log" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
+  </component>
+</application>
