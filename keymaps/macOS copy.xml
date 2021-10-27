@@ -63,6 +63,13 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt q" />
     <keyboard-shortcut first-keystroke="ctrl q" />
@@ -72,6 +79,11 @@
   </action>
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
