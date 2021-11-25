@@ -5,6 +5,7 @@
       <mapping pattern="putReport" type="AUTO_DETECTED" />
       <hashBang value="node_modules" type="ActionScript" />
       <mapping ext="upx" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
