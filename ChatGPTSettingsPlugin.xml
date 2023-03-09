@@ -1,0 +1,9 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="customActionsPrefix">
+      <list>
+        <option value="解释这段代码" />
+      </list>
+    </option>
+  </component>
+</application>
