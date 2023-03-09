@@ -1,5 +1,18 @@
 <application>
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="email" value="1402123126@qq.com" />
+    <option name="password" value="cyR8276432" />
+    <option name="enableProxy" value="true" />
+    <option name="proxyType" value="HTTP" />
+    <option name="proxyHostname" value="127.0.0.1" />
+    <option name="proxyPort" value="7890" />
+    <option name="contentOrder">
+      <map>
+        <entry key="1" value="Online ChatGPT" />
+        <entry key="2" value="ChatGPT" />
+        <entry key="3" value="GPT-3.5-Turbo" />
+      </map>
+    </option>
     <option name="customActionsPrefix">
       <list>
         <option value="解释这段代码" />
