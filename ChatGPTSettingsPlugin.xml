@@ -1,5 +1,7 @@
 <application>
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="customizeUrl" value="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" />
+    <option name="urlType" value="CUSTOMIZE" />
     <option name="readTimeout" value="100000" />
     <option name="connectionTimeout" value="100000" />
     <option name="email" value="1402123126@qq.com" />
