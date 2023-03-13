@@ -1,7 +1,9 @@
 <application>
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="readTimeout" value="100000" />
+    <option name="connectionTimeout" value="100000" />
     <option name="email" value="1402123126@qq.com" />
-    <option name="password" value="cyR8276432" />
+    <option name="password" value="cYR8276432" />
     <option name="enableProxy" value="true" />
     <option name="proxyType" value="HTTP" />
     <option name="proxyHostname" value="127.0.0.1" />
@@ -19,5 +21,7 @@
         <option value="解释这段代码" />
       </list>
     </option>
+    <option name="enableContext" value="true" />
+    <option name="assistantApiKey" value="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" />
   </component>
 </application>
