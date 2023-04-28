@@ -1,0 +1,29 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="customizeUrl" value="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" />
+    <option name="urlType" value="CUSTOMIZE" />
+    <option name="readTimeout" value="100000" />
+    <option name="connectionTimeout" value="100000" />
+    <option name="email" value="1402123126@qq.com" />
+    <option name="password" value="cYR8276432" />
+    <option name="enableProxy" value="true" />
+    <option name="proxyType" value="HTTP" />
+    <option name="proxyHostname" value="127.0.0.1" />
+    <option name="proxyPort" value="7890" />
+    <option name="apiKey" value="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" />
+    <option name="contentOrder">
+      <map>
+        <entry key="1" value="Online ChatGPT" />
+        <entry key="2" value="ChatGPT" />
+        <entry key="3" value="GPT-3.5-Turbo" />
+      </map>
+    </option>
+    <option name="customActionsPrefix">
+      <list>
+        <option value="解释这段代码" />
+      </list>
+    </option>
+    <option name="enableContext" value="true" />
+    <option name="assistantApiKey" value="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" />
+  </component>
+</application>
